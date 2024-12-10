@@ -14,7 +14,7 @@
 
 .box1{
     height: 100px;
-    width: 99%;
+    width: 100%;
     background-color: rgba(9, 172, 9, 0.74);
     text-align: center;
     align-content: center;
@@ -35,7 +35,7 @@
 
 .box{
     height: 122px;
-    width: 97%;
+    width: 96%;
     align-items: center;
     justify-content: center;
     background-color: rgba(255, 123, 0, 0.644);
